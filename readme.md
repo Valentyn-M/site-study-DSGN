@@ -1,9 +1,9 @@
-DSGN - Дизайн агенство
+DSGN - Design agency
 
 Landing page
 
-Полностью резиновый сайт
+Fully rubber site
 
-Для Retina дисплеев
+For Retina displays
 
 Grid
